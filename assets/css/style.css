@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: #00F7E4;
+    color: white;
+    font-size: 20pt;
+}
+
+header .banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    float: center;
+}
+
+section .start-msg {
+    font-size: 20pt;
+    color: black;
+}
+
+section .game-data {
+    font-size: 20pt;
+}
+
+#question {
+    font-size: 18pt;
+    color: purple;
+    letter-spacing: 1px;
+}
+
+#already-guessed{
+    letter-spacing: 2px;
+}
+
+#hint {
+    font-size: 16pt;
+}
