@@ -13,7 +13,7 @@ const artistData = {
  "Bell Biv Devoe": "Poison (1990)",
  "Kriss Kross": "Jump (1992)",
  "Geto Boys": "Mind Playing Tricks on Me(1991)",
- "Bill Ray Cyrus": "Achy Breaky Heart(1992)",
+ "Billy Ray Cyrus": "Achy Breaky Heart(1992)",
  "Public Enemy": "911 Is a Joke(1990)",
  "Montell Jordan": "This is How We DO It (1995)",
   }
